@@ -2,6 +2,8 @@
 
 <div align="center">
 
+<!-- Animated CHIMERA Header -->
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:050816,50:14213D,100:5B21B6&height=220&section=header&text=CHIMERA&fontSize=75&fontColor=FFFFFF&fontAlignY=38&desc=AI-Powered%20Cyber%20Investigation%20%26%20Attack%20Graph%20Reconstruction&descSize=16&descAlignY=60&animation=fadeIn" width="100%" alt="CHIMERA Header"/>
 
 <br/>
