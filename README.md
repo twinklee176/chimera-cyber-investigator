@@ -318,9 +318,23 @@ CHIMERA was developed as a collaborative hackathon project.
 [@twinklee176](https://github.com/twinklee176)
 
 **Original Contributors:**
-- [Add Team Member 1](https://github.com/rajshree077)
-- Add Team Member 2
-- Add Team Member 3
+## 👥 Team & Acknowledgements
+
+CHIMERA was developed collaboratively as a hackathon project.
+
+### Project Contributors
+
+| Contributor | GitHub Profile |
+|---|---|
+| Twinkle Mahato | [@twinklee176](https://github.com/twinklee176) |
+| Kashvi Nayak | [@kashvinayak20-debug](https://github.com/kashvinayak20-debug) |
+| Rajshree Panda | [@rajshree077](https://github.com/rajshree077) |
+
+### Original Project Repository
+
+[Chimera Cyber Investigator](https://github.com/kashvinayak20-debug/chimera-cyber-investigator)
+
+We acknowledge the contributions of all team members involved in the original hackathon project. This repository is an independent copy maintained for continued development, learning, and portfolio purposes, with original Git history and contributor attribution preserved.
 
 We acknowledge the contributions of all original team members involved in the design and development of CHIMERA.
 
