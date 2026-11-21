@@ -341,15 +341,7 @@ We acknowledge the contributions of all original team members involved in the de
 
 This repository is an independent copy of the original collaborative project, maintained for continued development and portfolio purposes. Original commit authorship and project contributions are retained.
 
----
 
-## ⚠️ Disclaimer
-
-CHIMERA is intended for authorized cybersecurity investigation, digital forensics, and educational purposes.
-
-Its findings are advisory and should be validated by qualified security professionals before making incident-response decisions.
-
----
 
 <p align="center">
   <strong>CHIMERA</strong>
