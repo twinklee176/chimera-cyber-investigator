@@ -329,6 +329,7 @@ CHIMERA was developed collaboratively as a hackathon project.
 | Twinkle Mahato | [@twinklee176](https://github.com/twinklee176) |
 | Kashvi Nayak | [@kashvinayak20-debug](https://github.com/kashvinayak20-debug) |
 | Rajshree Panda | [@rajshree077](https://github.com/rajshree077) |
+| Anmisha Dash  | [@anmisha-dash](https://github.com/anmisha-dash). |
 
 ### Original Project Repository
 
