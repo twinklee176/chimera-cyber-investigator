@@ -318,7 +318,7 @@ CHIMERA was developed as a collaborative hackathon project.
 [@twinklee176](https://github.com/twinklee176)
 
 **Original Contributors:**
-- Add Team Member 1
+- [Add Team Member 1](https://github.com/rajshree077)
 - Add Team Member 2
 - Add Team Member 3
 
